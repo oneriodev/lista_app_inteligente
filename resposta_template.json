@@ -1,0 +1,17 @@
+[
+    {
+        "dt_compra": "2023-10-01",
+        "produto": "Arroz",
+        "valor_produto": 20.0
+    },
+    {
+        "dt_compra": "2023-10-02",
+        "produto": "Feijão",
+        "valor_produto": 15.0
+    },
+    {
+        "dt_compra": "2023-10-03",
+        "produto": "Macarrão",
+        "valor_produto": 10.0
+    }
+]
