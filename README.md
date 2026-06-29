@@ -201,8 +201,6 @@ streamlit run main.py
 
 **Onerio Ramos**
 
-Estudante de Matemática • Ciência de Dados • Inteligência Artificial
+Estudante de Matemática / Estatística • Ciência de Dados • Inteligência Artificial
 
-LinkedIn: *(adicione seu perfil)*
-
-GitHub: *(adicione seu perfil)*
+LinkedIn: https://www.linkedin.com/in/onerio-ramos/
